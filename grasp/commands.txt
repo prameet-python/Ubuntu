@@ -1,0 +1,26 @@
+started on:20 nov 2019
+
+1> SUDO     -       Super user do.Its running with administrator previlage. 
+
+2> apt-get  -       Install,update and remove packages avilable in ubantu installation database.
+    
+    
+    a> sudo apt-get update  -   It checks in database that if your ubantu needs any package update after a fresh install.  
+
+    b> sudo apt-get install <package name>  -   To install a package from comad line if package name known.
+
+3> ls       -       List of files and folders in the working directory.
+
+4> cd       -       Change working directory.
+
+5> pwd      -       Print working directory.
+
+6> mv       -       Move directory.
+
+7> rm       -       Remove specific file
+
+    a> rmdir        -       Removes an empty directory.
+
+    b> rm-r         -       Removes directory with its contents
+
+
